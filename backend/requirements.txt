@@ -15,6 +15,7 @@ pyhumps==3.8.0
 python-jose
 python-multipart
 pytz
+tzdata
 redis>=5.0.0
 requests
 sendgrid
